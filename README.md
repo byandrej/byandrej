@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @byandrej
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning js,jQuery
 
 <!---
 byandrej/byandrej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
